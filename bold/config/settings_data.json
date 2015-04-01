@@ -201,7 +201,8 @@
     "subscribed_message": "You are now subscribed.",
     "available_font_families": [
         "ovoregular",
-        "oswaldregular"
+        "oswaldregular",
+        "Dimbo-Regular"
     ],
     "ga_token": "",
     "favicon": "images\/favicon.ico",
